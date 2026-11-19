@@ -5,9 +5,10 @@ Interested in data engineering and cloud: building data pipelines and deployment
 
 ### Projects
 
-- [Data Battle 2025](https://github.com/Gotrone/IA_PAU_Databattle) – NLP pipeline to classify and rank industrial solutions (team project)
-- [SpMV Benchmarking](https://github.com/Gotrone/SpMV_Benchmarking) – sparse matrix-vector product benchmarks in C
-- [CFD Benchmarking](https://github.com/Gotrone/TFM) – evaluation pipeline prototype for CFD prediction models (work in progress)
+- [HPC for AI](https://github.com/Gotrone/PAH) – CUDA bilateral filter (≈ 29× faster than CPU) and Vision Transformer fine-tuning / compression
+- [SpMV Benchmarking](https://github.com/Gotrone/SpMV_Benchmarking) – sparse matrix-vector product benchmarks in C across formats and compilers
+- [Distributed Training Lab](https://github.com/Gotrone/distributed-training-lab) – DistilBERT fine-tuning, single-GPU baseline and multi-node DDP with PyTorch Lightning on SLURM
+- [Data Battle 2024](https://github.com/Gotrone/Data-Battle) – NLP matching of industrial needs to energy-saving solutions (team project)
 
 ### Contact
 
